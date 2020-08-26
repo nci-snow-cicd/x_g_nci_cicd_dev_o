@@ -1,0 +1,20 @@
+{
+  "change_date": "2020-04-15 22:42:10",
+  "changed_by": "9a8aa85fdbcc8c50561276708c96198b",
+  "content": "a477d47ac35312007bf1bea192d3ae52",
+  "related_change_log_entry": null,
+  "related_task_entry": null,
+  "sys_class_name": "gsw_change_log",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-15 22:42:10",
+  "sys_id": "ed8881c81b989410fe45ed39bc4bcb78",
+  "sys_mod_count": 0,
+  "sys_name": "2020-04-15 22:42:10",
+  "sys_package": "60c2a2971b4cd010fe45ed39bc4bcb2a",
+  "sys_policy": null,
+  "sys_scope": "60c2a2971b4cd010fe45ed39bc4bcb2a",
+  "sys_update_name": "gsw_change_log_ed8881c81b989410fe45ed39bc4bcb78",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-15 22:42:10",
+  "type": 1
+}

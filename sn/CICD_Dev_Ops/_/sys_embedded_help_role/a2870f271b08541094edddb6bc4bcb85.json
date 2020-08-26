@@ -1,0 +1,16 @@
+{
+  "order": 1000,
+  "role": "62870f271b08541094edddb6bc4bcb83",
+  "sys_class_name": "sys_embedded_help_role",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 18:40:09",
+  "sys_id": "a2870f271b08541094edddb6bc4bcb85",
+  "sys_mod_count": 0,
+  "sys_name": "62870f271b08541094edddb6bc4bcb83",
+  "sys_package": "60c2a2971b4cd010fe45ed39bc4bcb2a",
+  "sys_policy": null,
+  "sys_scope": "60c2a2971b4cd010fe45ed39bc4bcb2a",
+  "sys_update_name": "sys_embedded_help_role_a2870f271b08541094edddb6bc4bcb85",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 18:40:09"
+}
