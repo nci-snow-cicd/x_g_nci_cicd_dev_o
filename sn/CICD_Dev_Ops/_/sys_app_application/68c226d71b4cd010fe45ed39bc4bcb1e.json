@@ -1,6 +1,6 @@
 {
   "active": true,
-  "category": null,
+  "category": "e0355b31ef303000a61d5a3615c0fb78",
   "description": null,
   "device_type": "browser",
   "hint": null,
@@ -11,14 +11,14 @@
   "sys_created_by": "rizknt@nih.gov",
   "sys_created_on": "2020-04-13 21:20:58",
   "sys_id": "68c226d71b4cd010fe45ed39bc4bcb1e",
-  "sys_mod_count": 1,
+  "sys_mod_count": 2,
   "sys_name": "CICD_Dev_Ops",
   "sys_package": "60c2a2971b4cd010fe45ed39bc4bcb2a",
   "sys_policy": null,
   "sys_scope": "60c2a2971b4cd010fe45ed39bc4bcb2a",
   "sys_update_name": "sys_app_application_68c226d71b4cd010fe45ed39bc4bcb1e",
   "sys_updated_by": "rizknt@nih.gov",
-  "sys_updated_on": "2020-04-13 21:20:58",
+  "sys_updated_on": "2020-09-01 19:54:32",
   "title": "CICD_Dev_Ops",
   "view_name": null
 }
