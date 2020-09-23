@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-09-23 20:52:38">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<application_name>CICD_Dev_Ops</application_name>
+<application_scope>x_g_nci_cicd_dev_o</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>CICD_Dev_Ops - 1.0.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>0ed6bdb31b5b5c5094edddb6bc4bcb1b</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>36673df31b5b5c5094edddb6bc4bcb54</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>gsw_change_log_db588d881b989410fe45ed39bc4bcb14</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log"><gsw_change_log action="INSERT_OR_UPDATE"><change_date>2020-04-15 22:41:28</change_date><changed_by display_value="Nadim Rizk">9a8aa85fdbcc8c50561276708c96198b</changed_by><content display_value="IT Operations Management Guided Setup">f52f9c00c31022007bf1bea192d3aef8</content><related_change_log_entry/><related_task_entry/><sys_class_name>gsw_change_log</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-15 22:41:28</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>db588d881b989410fe45ed39bc4bcb14</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2020-04-15 22:41:28</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>gsw_change_log_db588d881b989410fe45ed39bc4bcb14</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-15 22:41:28</sys_updated_on><type>1</type></gsw_change_log></record_update>]]></payload>
+<payload_hash>-1850451263</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>32673df31b5b5c5094edddb6bc4bcb57</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0aa90000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>2020-04-15 22:41:28</target_name>
+<type>Guided Setup Change Log</type>
+<update_domain>global</update_domain>
+<update_guid>8ed6bdb3e35b5c504e9805d18f486438</update_guid>
+<update_guid_history>8ed6bdb3e35b5c504e9805d18f486438:-1850451263,81c9c01c3718d4104e77dd2dad57b036:-1850451263</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_step_bc993ea81b945810fe45ed39bc4bcbd4</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Open a new 'CICD_Dev_Ops Table' form</description><display_name>Open a New Form</display_name><inputs/><mugshots_cache_json/><notes/><order>2</order><snapshot/><step_config display_value="Open a New Form">05317cd10b10220050192f15d6673af8</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:14:25</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>bc993ea81b945810fe45ed39bc4bcbd4</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Open a New Form</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_atf_step_bc993ea81b945810fe45ed39bc4bcbd4</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:28:16</sys_updated_on><table>x_g_nci_cicd_dev_o_cicd_dev_ops_table</table><test display_value="CICD_Dev_Ops Test 1">0d697aa81b945810fe45ed39bc4bcb34</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=bc993ea81b945810fe45ed39bc4bcbd4"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>bc993ea81b945810fe45ed39bc4bcbd4</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:14:26</sys_created_on><sys_id>38e9b2e81b945810fe45ed39bc4bcbfd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:14:26</sys_updated_on><value/><variable display_value="">27d4e1c25320220002c6435723dc3486</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>bc993ea81b945810fe45ed39bc4bcbd4</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:14:26</sys_created_on><sys_id>b0e9b2e81b945810fe45ed39bc4bcbfe</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:28:16</sys_updated_on><value>x_g_nci_cicd_dev_o_cicd_dev_ops_table</value><variable display_value="">bb84ed825320220002c6435723dc3400</variable></sys_variable_value></record_update>]]></payload>
+<payload_hash>382178987</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>32673df31b5b5c5094edddb6bc4bcbfa</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0d410000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table>x_g_nci_cicd_dev_o_cicd_dev_ops_table</table>
+<target_name>Open a New Form</target_name>
+<type>Test Step</type>
+<update_domain>global</update_domain>
+<update_guid>d6d6bdb3755b5c50b119e030aafd475b</update_guid>
+<update_guid_history>d6d6bdb3755b5c50b119e030aafd475b:382178987,02da0c761f7a9c10578542383b2095c6:382178987,230dbaacf89458107da2f216943dec08:1795101666,dc2ab6e881945810470f85f3b0a07ee7:435468916,78e9b2e829945810bb8130d5f8002aff:210886131</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_bcc266d71b4cd010fe45ed39bc4bcbe0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-13 21:20:59</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>bcc266d71b4cd010fe45ed39bc4bcbe0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_g_nci_cicd_dev_o_cicd_dev_ops_table.x_g_nci_cicd_dev_o.user</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_security_acl display_value="x_g_nci_cicd_dev_o_cicd_dev_ops_table">bcc266d71b4cd010fe45ed39bc4bcb9c</sys_security_acl><sys_update_name>sys_security_acl_role_bcc266d71b4cd010fe45ed39bc4bcbe0</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-13 21:20:59</sys_updated_on><sys_user_role display_value="x_g_nci_cicd_dev_o.user" name="x_g_nci_cicd_dev_o.user">68c266d71b4cd010fe45ed39bc4bcb33</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>961653872</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>32673df31b5b5c5094edddb6bc4bcbfd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0b5f0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table>x_g_nci_cicd_dev_o_cicd_dev_ops_table</table>
+<target_name>x_g_nci_cicd_dev_o_cicd_dev_ops_table.x_g_nci_cicd_dev_o.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>4ed6bdb3a85b5c50e71071b0fee6fa42</update_guid>
+<update_guid_history>4ed6bdb3a85b5c50e71071b0fee6fa42:961653872,bcc266d74e4cd01008c65f12d35117e3:961653872</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>gsw_change_log_9d788d881b989410fe45ed39bc4bcb64</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log"><gsw_change_log action="INSERT_OR_UPDATE"><change_date>2020-04-15 22:41:53</change_date><changed_by display_value="Nadim Rizk">9a8aa85fdbcc8c50561276708c96198b</changed_by><content display_value="Download &amp; Install MID">c751d3dac39312007bf1bea192d3ae0a</content><related_change_log_entry display_value="04/15/2020 18:41:53">91788d881b989410fe45ed39bc4bcb64</related_change_log_entry><related_task_entry/><sys_class_name>gsw_change_log</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-15 22:41:53</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>9d788d881b989410fe45ed39bc4bcb64</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2020-04-15 22:41:53</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>gsw_change_log_9d788d881b989410fe45ed39bc4bcb64</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-15 22:41:53</sys_updated_on><type>3</type></gsw_change_log></record_update>]]></payload>
+<payload_hash>1122960519</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>36673df31b5b5c5094edddb6bc4bcb56</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0a560000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>2020-04-15 22:41:53</target_name>
+<type>Guided Setup Change Log</type>
+<update_domain>global</update_domain>
+<update_guid>46d6bdb32c5b5c50061b0f693e1b0b33</update_guid>
+<update_guid_history>46d6bdb32c5b5c50061b0f693e1b0b33:1122960519,29571073b9135c50ed8f8b2995cd88ac:1122960519,f5da0c76737a9c1050cae573e94dcb69:-826534052,45c9c01cb018d41075f2591b7571bb30:-1434469433</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_f8c266d71b4cd010fe45ed39bc4bcbe4</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_g_nci_cicd_dev_o_cicd_dev_ops_table</description><name>x_g_nci_cicd_dev_o_cicd_dev_ops_table</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-13 21:20:59</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>f8c266d71b4cd010fe45ed39bc4bcbe4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_g_nci_cicd_dev_o_cicd_dev_ops_table</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_security_acl_f8c266d71b4cd010fe45ed39bc4bcbe4</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-13 21:20:59</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-540555858</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>36673df31b5b5c5094edddb6bc4bcbfc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0dd50000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table>x_g_nci_cicd_dev_o_cicd_dev_ops_table</table>
+<target_name>x_g_nci_cicd_dev_o_cicd_dev_ops_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>9ed6bdb3115b5c503a27089d3e177161</update_guid>
+<update_guid_history>9ed6bdb3115b5c503a27089d3e177161:-540555858,7cc266d7e74cd01065063e506aa1fce9:-540555858</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>gsw_change_log_2988cd881b989410fe45ed39bc4bcb68</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log"><gsw_change_log action="INSERT_OR_UPDATE"><change_date>2020-04-15 22:42:10</change_date><changed_by display_value="Nadim Rizk">9a8aa85fdbcc8c50561276708c96198b</changed_by><content display_value="MID Server ">743013dac39312007bf1bea192d3aea8</content><related_change_log_entry/><related_task_entry/><sys_class_name>gsw_change_log</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-15 22:42:10</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>2988cd881b989410fe45ed39bc4bcb68</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2020-04-15 22:42:10</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>gsw_change_log_2988cd881b989410fe45ed39bc4bcb68</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-15 22:42:10</sys_updated_on><type>1</type></gsw_change_log></record_update>]]></payload>
+<payload_hash>-581655854</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>3a673df31b5b5c5094edddb6bc4bcb54</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb09a70000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>2020-04-15 22:42:10</target_name>
+<type>Guided Setup Change Log</type>
+<update_domain>global</update_domain>
+<update_guid>42d6bdb31d5b5c50b1af450aad5bf928</update_guid>
+<update_guid_history>42d6bdb31d5b5c50b1af450aad5bf928:-581655854,38c9c01cea18d410c0ee64044bd88224:-581655854</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>gsw_change_log_55884d881b989410fe45ed39bc4bcbd4</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log"><gsw_change_log action="INSERT_OR_UPDATE"><change_date>2020-04-15 22:42:09</change_date><changed_by display_value="Nadim Rizk">9a8aa85fdbcc8c50561276708c96198b</changed_by><content display_value="Create MID User">a477d47ac35312007bf1bea192d3ae52</content><related_change_log_entry/><related_task_entry/><sys_class_name>gsw_change_log</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-15 22:42:09</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>55884d881b989410fe45ed39bc4bcbd4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2020-04-15 22:42:09</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>gsw_change_log_55884d881b989410fe45ed39bc4bcbd4</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-15 22:42:09</sys_updated_on><type>2</type></gsw_change_log></record_update>]]></payload>
+<payload_hash>-1973559725</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>3a673df31b5b5c5094edddb6bc4bcb55</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb09f80000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>2020-04-15 22:42:09</target_name>
+<type>Guided Setup Change Log</type>
+<update_domain>global</update_domain>
+<update_guid>cad6bdb36d5b5c50a4e6a8cad27a682d</update_guid>
+<update_guid_history>cad6bdb36d5b5c50a4e6a8cad27a682d:-1973559725,c5c9c01ca618d410cd760f734369c92a:-1973559725</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_number_c1c2a6d71b4cd010fe45ed39bc4bcb7c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_g_nci_cicd_dev_o_cicd_dev_ops_table">x_g_nci_cicd_dev_o_cicd_dev_ops_table</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>CIC</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-13 21:21:00</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>c1c2a6d71b4cd010fe45ed39bc4bcb7c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CIC</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_number_c1c2a6d71b4cd010fe45ed39bc4bcb7c</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-13 21:21:00</sys_updated_on></sys_number></record_update>]]></payload>
+<payload_hash>1600560433</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>3a673df31b5b5c5094edddb6bc4bcbfb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0e180000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>CIC</target_name>
+<type>Number</type>
+<update_domain>global</update_domain>
+<update_guid>5ed6bdb3b75b5c5035d6f1bd8cf78764</update_guid>
+<update_guid_history>5ed6bdb3b75b5c5035d6f1bd8cf78764:1600560433,89c2a6d73e4cd0104ed35a14ce6665a8:1600560433</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_637984f21b7a9c1094edddb6bc4bcb40</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_g_nci_cicd_dev_o_cicd_dev_ops_table</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-13 21:21:00</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>637984f21b7a9c1094edddb6bc4bcb40</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_g_nci_cicd_dev_o_cicd_dev_ops_table</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>ua_table_licensing_config_637984f21b7a9c1094edddb6bc4bcb40</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-13 21:21:00</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>-1261017215</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>3a673df31b5b5c5094edddb6bc4bcbfe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0ba50000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>x_g_nci_cicd_dev_o_cicd_dev_ops_table</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>96d6bdb3815b5c509598c198386a6547</update_guid>
+<update_guid_history>96d6bdb3815b5c509598c198386a6547:-1261017215,f95710736f135c50363d4140141414fe:-1261017215</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_85c2a6d71b4cd010fe45ed39bc4bcbaa</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="CICD_Dev_Ops">68c226d71b4cd010fe45ed39bc4bcb1e</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>CICD_Dev_Ops Table</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_g_nci_cicd_dev_o_cicd_dev_ops_table</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_g_nci_cicd_dev_o.user</roles><survey/><survey_overwrite>true</survey_overwrite><sys_class_name>sys_app_module</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-13 21:21:00</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>85c2a6d71b4cd010fe45ed39bc4bcbaa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CICD_Dev_Ops Table</sys_name><sys_overrides/><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_app_module_85c2a6d71b4cd010fe45ed39bc4bcbaa</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-13 21:21:00</sys_updated_on><timeline_page/><title>CICD_Dev_Ops Table</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>1044601970</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>3e673df31b5b5c5094edddb6bc4bcb57</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0bef0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table>x_g_nci_cicd_dev_o_cicd_dev_ops_table</table>
+<target_name>CICD_Dev_Ops Table</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>9ed6bdb38c5b5c50a57a9ef7adf9dd4b</update_guid>
+<update_guid_history>9ed6bdb38c5b5c50a57a9ef7adf9dd4b:1044601970,41c2a6d7d54cd0104cf512be0f63a3ac:1044601970</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_a0c2a2971b4cd010fe45ed39bc4bcb2a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model>class</extension_model><is_extendable>true</is_extendable><label>CICD_Dev_Ops Table</label><live_feed_enabled>true</live_feed_enabled><name>x_g_nci_cicd_dev_o_cicd_dev_ops_table</name><number_ref display_value="CIC">c1c2a6d71b4cd010fe45ed39bc4bcb7c</number_ref><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Task" name="task">68e745436f022100250e6bbeae3ee45b</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-13 21:20:59</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>a0c2a2971b4cd010fe45ed39bc4bcb2a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>CICD_Dev_Ops Table</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_db_object_a0c2a2971b4cd010fe45ed39bc4bcb2a</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-13 21:21:00</sys_updated_on><update_access>false</update_access><user_role display_value="x_g_nci_cicd_dev_o.user" name="x_g_nci_cicd_dev_o.user">68c266d71b4cd010fe45ed39bc4bcb33</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>752863139</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>3e673df31b5b5c5094edddb6bc4bcbfa</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0c770000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table>x_g_nci_cicd_dev_o_cicd_dev_ops_table</table>
+<target_name>CICD_Dev_Ops Table</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>9ad6bdb3bc5b5c5003f94719c0734c52</update_guid>
+<update_guid_history>9ad6bdb3bc5b5c5003f94719c0734c52:752863139,42da0c76897a9c10bb404a6500214289:752863139,81c2a6d7184cd010539d645de3d9c9a7:-1351292774,41c2a6d7c74cd01051aff5b35a82d041:1276663453</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_37e2aad71b4cd010fe45ed39bc4bcb43</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="37e2aad71b4cd010fe45ed39bc4bcb43" sys_domain="global" table="x_g_nci_cicd_dev_o_cicd_dev_ops_table" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:11:08</sys_created_on><sys_id>282936a81b945810fe45ed39bc4bcb2f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_g_nci_cicd_dev_o_cicd_dev_ops_table" sys_domain="global" view="Default view">37e2aad71b4cd010fe45ed39bc4bcb43</sys_ui_section><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:11:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_requested_for</element><position>1</position><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:11:08</sys_created_on><sys_id>a82936a81b945810fe45ed39bc4bcb2f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_g_nci_cicd_dev_o_cicd_dev_ops_table" sys_domain="global" view="Default view">37e2aad71b4cd010fe45ed39bc4bcb43</sys_ui_section><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:11:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>opened_by</element><position>2</position><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:11:08</sys_created_on><sys_id>2c2936a81b945810fe45ed39bc4bcb2f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_g_nci_cicd_dev_o_cicd_dev_ops_table" sys_domain="global" view="Default view">37e2aad71b4cd010fe45ed39bc4bcb43</sys_ui_section><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:11:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>location</element><position>3</position><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:11:08</sys_created_on><sys_id>ac2936a81b945810fe45ed39bc4bcb2f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_g_nci_cicd_dev_o_cicd_dev_ops_table" sys_domain="global" view="Default view">37e2aad71b4cd010fe45ed39bc4bcb43</sys_ui_section><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:11:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>activity_due</element><position>4</position><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:11:08</sys_created_on><sys_id>202936a81b945810fe45ed39bc4bcb30</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_g_nci_cicd_dev_o_cicd_dev_ops_table" sys_domain="global" view="Default view">37e2aad71b4cd010fe45ed39bc4bcb43</sys_ui_section><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:11:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>5</position><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:11:08</sys_created_on><sys_id>a02936a81b945810fe45ed39bc4bcb30</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_g_nci_cicd_dev_o_cicd_dev_ops_table" sys_domain="global" view="Default view">37e2aad71b4cd010fe45ed39bc4bcb43</sys_ui_section><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:11:08</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>urgency</element><position>6</position><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:11:08</sys_created_on><sys_id>242936a81b945810fe45ed39bc4bcb30</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_g_nci_cicd_dev_o_cicd_dev_ops_table" sys_domain="global" view="Default view">37e2aad71b4cd010fe45ed39bc4bcb43</sys_ui_section><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:11:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>7</position><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:11:08</sys_created_on><sys_id>a42936a81b945810fe45ed39bc4bcb30</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_g_nci_cicd_dev_o_cicd_dev_ops_table" sys_domain="global" view="Default view">37e2aad71b4cd010fe45ed39bc4bcb43</sys_ui_section><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:11:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assignment_group</element><position>8</position><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:11:08</sys_created_on><sys_id>282936a81b945810fe45ed39bc4bcb30</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_g_nci_cicd_dev_o_cicd_dev_ops_table" sys_domain="global" view="Default view">37e2aad71b4cd010fe45ed39bc4bcb43</sys_ui_section><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:11:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>9</position><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:11:08</sys_created_on><sys_id>a82936a81b945810fe45ed39bc4bcb30</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_g_nci_cicd_dev_o_cicd_dev_ops_table" sys_domain="global" view="Default view">37e2aad71b4cd010fe45ed39bc4bcb43</sys_ui_section><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:11:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>action_status</element><position>10</position><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:11:08</sys_created_on><sys_id>2c2936a81b945810fe45ed39bc4bcb30</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_g_nci_cicd_dev_o_cicd_dev_ops_table" sys_domain="global" view="Default view">37e2aad71b4cd010fe45ed39bc4bcb43</sys_ui_section><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:11:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>11</position><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:11:08</sys_created_on><sys_id>ac2936a81b945810fe45ed39bc4bcb30</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_g_nci_cicd_dev_o_cicd_dev_ops_table" sys_domain="global" view="Default view">37e2aad71b4cd010fe45ed39bc4bcb43</sys_ui_section><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:11:08</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>12</position><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:11:08</sys_created_on><sys_id>202936a81b945810fe45ed39bc4bcb31</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_g_nci_cicd_dev_o_cicd_dev_ops_table" sys_domain="global" view="Default view">37e2aad71b4cd010fe45ed39bc4bcb43</sys_ui_section><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:11:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>13</position><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:11:08</sys_created_on><sys_id>a02936a81b945810fe45ed39bc4bcb31</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_g_nci_cicd_dev_o_cicd_dev_ops_table" sys_domain="global" view="Default view">37e2aad71b4cd010fe45ed39bc4bcb43</sys_ui_section><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:11:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>14</position><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:11:08</sys_created_on><sys_id>242936a81b945810fe45ed39bc4bcb31</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_g_nci_cicd_dev_o_cicd_dev_ops_table" sys_domain="global" view="Default view">37e2aad71b4cd010fe45ed39bc4bcb43</sys_ui_section><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:11:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>15</position><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:11:08</sys_created_on><sys_id>a42936a81b945810fe45ed39bc4bcb31</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_g_nci_cicd_dev_o_cicd_dev_ops_table" sys_domain="global" view="Default view">37e2aad71b4cd010fe45ed39bc4bcb43</sys_ui_section><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:11:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>activity.xml</element><position>16</position><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:11:08</sys_created_on><sys_id>282936a81b945810fe45ed39bc4bcb31</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter><sys_ui_section caption="NULL" display_value="" name="x_g_nci_cicd_dev_o_cicd_dev_ops_table" sys_domain="global" view="Default view">37e2aad71b4cd010fe45ed39bc4bcb43</sys_ui_section><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:11:08</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_g_nci_cicd_dev_o_cicd_dev_ops_table</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-13 21:21:44</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>37e2aad71b4cd010fe45ed39bc4bcb43</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_g_nci_cicd_dev_o_cicd_dev_ops_table</sys_name><sys_overrides/><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_ui_section_37e2aad71b4cd010fe45ed39bc4bcb43</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-13 21:21:44</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>1089688614</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>3e673df31b5b5c5094edddb6bc4bcbfd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0b1d0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table>x_g_nci_cicd_dev_o_cicd_dev_ops_table</table>
+<target_name>CICD_Dev_Ops Table</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>86d6bdb37a5b5c5029a4468f5da9e33e</update_guid>
+<update_guid_history>86d6bdb37a5b5c5029a4468f5da9e33e:1089688614,682936a8639458108e3414f1f135fb34:1089688614,eeb87a68c294581095a9e2eeb1aafb58:1705248814,9475d2187d5018109d29eabc273d61d2:-638376032,3393aa1bb64cd01062774bfb9b086fa3:1140030292</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>gsw_change_log_91788d881b989410fe45ed39bc4bcb64</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log"><gsw_change_log action="INSERT_OR_UPDATE"><change_date>2020-04-15 22:41:53</change_date><changed_by display_value="Nadim Rizk">9a8aa85fdbcc8c50561276708c96198b</changed_by><content display_value="Create MID User">a477d47ac35312007bf1bea192d3ae52</content><related_change_log_entry/><related_task_entry/><sys_class_name>gsw_change_log</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-15 22:41:53</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>91788d881b989410fe45ed39bc4bcb64</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2020-04-15 22:41:53</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>gsw_change_log_91788d881b989410fe45ed39bc4bcb64</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-15 22:41:53</sys_updated_on><type>3</type></gsw_change_log></record_update>]]></payload>
+<payload_hash>-777415020</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>72673df31b5b5c5094edddb6bc4bcb56</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0a3e0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>2020-04-15 22:41:53</target_name>
+<type>Guided Setup Change Log</type>
+<update_domain>global</update_domain>
+<update_guid>4ed6bdb35a5b5c50f2a03b626a825031</update_guid>
+<update_guid_history>4ed6bdb35a5b5c50f2a03b626a825031:-777415020,0dc9c01c7618d4100bdc9885c7080f2e:-777415020</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_bcc266d71b4cd010fe45ed39bc4bcb9c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_g_nci_cicd_dev_o_cicd_dev_ops_table</description><name>x_g_nci_cicd_dev_o_cicd_dev_ops_table</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-13 21:20:59</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>bcc266d71b4cd010fe45ed39bc4bcb9c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_g_nci_cicd_dev_o_cicd_dev_ops_table</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_security_acl_bcc266d71b4cd010fe45ed39bc4bcb9c</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-13 21:20:59</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1710391410</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>72673df31b5b5c5094edddb6bc4bcbfc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0db80000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table>x_g_nci_cicd_dev_o_cicd_dev_ops_table</table>
+<target_name>x_g_nci_cicd_dev_o_cicd_dev_ops_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>1ad6bdb3445b5c50ac6e616f7e6caf60</update_guid>
+<update_guid_history>1ad6bdb3445b5c50ac6e616f7e6caf60:1710391410,f0c266d7404cd0103ef3fa70e99e96e0:1710391410</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>gsw_change_log_397805c41b989410fe45ed39bc4bcba0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log"><gsw_change_log action="INSERT_OR_UPDATE"><change_date>2020-04-15 22:41:55</change_date><changed_by display_value="Nadim Rizk">9a8aa85fdbcc8c50561276708c96198b</changed_by><content display_value="Create MID User">a477d47ac35312007bf1bea192d3ae52</content><related_change_log_entry/><related_task_entry/><sys_class_name>gsw_change_log</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-15 22:41:55</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>397805c41b989410fe45ed39bc4bcba0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2020-04-15 22:41:55</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>gsw_change_log_397805c41b989410fe45ed39bc4bcba0</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-15 22:41:55</sys_updated_on><type>7</type></gsw_change_log></record_update>]]></payload>
+<payload_hash>-1834828200</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>76673df31b5b5c5094edddb6bc4bcb55</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb09e60000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>2020-04-15 22:41:55</target_name>
+<type>Guided Setup Change Log</type>
+<update_domain>global</update_domain>
+<update_guid>46d6bdb3e15b5c507cd3bb939e5c7b2c</update_guid>
+<update_guid_history>46d6bdb3e15b5c507cd3bb939e5c7b2c:-1834828200,01c9c01c4318d410a6a02a328ea12229:-1834828200</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_embedded_help_role_a2870f271b08541094edddb6bc4bcb85</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role"><sys_embedded_help_role action="INSERT_OR_UPDATE"><order>1000</order><role display_value="">62870f271b08541094edddb6bc4bcb83</role><sys_class_name>sys_embedded_help_role</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-14 18:40:09</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>a2870f271b08541094edddb6bc4bcb85</sys_id><sys_mod_count>0</sys_mod_count><sys_name>62870f271b08541094edddb6bc4bcb83</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_embedded_help_role_a2870f271b08541094edddb6bc4bcb85</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-14 18:40:09</sys_updated_on></sys_embedded_help_role></record_update>]]></payload>
+<payload_hash>-1736202456</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>76673df31b5b5c5094edddb6bc4bcbfb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0c9c0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>62870f271b08541094edddb6bc4bcb83</target_name>
+<type>Embedded Help Role Priority</type>
+<update_domain>global</update_domain>
+<update_guid>16d6bdb3245b5c507e07b2e2244c5f54</update_guid>
+<update_guid_history>16d6bdb3245b5c507e07b2e2244c5f54:-1736202456,02da0c76817a9c1013ef56ad2a87c48b:-1736202456,e7d505c4c5989410e1708efd10659dcf:1717677206</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_wizard_answer_ef7984f21b7a9c1094edddb6bc4bcb35</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>CICD_Dev_Ops Table</answer><button_label/><dependent_value/><element/><name>CICD_Dev_Ops Table</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">2ce745436f022100250e6bbeae3ee45b</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-08-26 13:47:03</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>ef7984f21b7a9c1094edddb6bc4bcb35</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CICD_Dev_Ops Table</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_wizard_answer_ef7984f21b7a9c1094edddb6bc4bcb35</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-08-26 13:47:03</sys_updated_on><table/><target_url>x_g_nci_cicd_dev_o_cicd_dev_ops_table.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+<payload_hash>-1072030395</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>76673df31b5b5c5094edddb6bc4bcbfe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0c340000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>CICD_Dev_Ops Table</target_name>
+<type>Answer</type>
+<update_domain>global</update_domain>
+<update_guid>92d6bdb3505b5c50373e1d663ea4284f</update_guid>
+<update_guid_history>92d6bdb3505b5c50373e1d663ea4284f:-1072030395,c6da0c76267a9c100ab03c81e9d2fd85:-1072030395</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_68c226d71b4cd010fe45ed39bc4bcb1e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>CICD_Dev_Ops</name><order/><roles>x_g_nci_cicd_dev_o.user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-13 21:20:58</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>68c226d71b4cd010fe45ed39bc4bcb1e</sys_id><sys_mod_count>2</sys_mod_count><sys_name>CICD_Dev_Ops</sys_name><sys_overrides/><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_app_application_68c226d71b4cd010fe45ed39bc4bcb1e</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-09-01 19:54:32</sys_updated_on><title>CICD_Dev_Ops</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>117109125</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>7a673df31b5b5c5094edddb6bc4bcb57</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0bc00000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>CICD_Dev_Ops</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>ded6bdb3be5b5c504df42c8932342d48</update_guid>
+<update_guid_history>ded6bdb3be5b5c504df42c8932342d48:117109125,1d279cfc8bcbd850dbb02af0d394aa11:117109125,bf93aa1b824cd010f656d536c4a953ab:736882356,f8c266d7214cd0103a80d4a78d2c358a:400505232,a0c266d7714cd0103ff0bc2eb35d2432:96539675</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_whitelist_96eafee81b945810fe45ed39bc4bcb7d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_whitelist"><sys_atf_whitelist action="INSERT_OR_UPDATE"><active>true</active><description>This client error occurred on the page in Firefox 75.0</description><error_message>ReferenceError: angular is not defined</error_message><report_level>ignored</report_level><sys_class_name>sys_atf_whitelist</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:18:54</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>96eafee81b945810fe45ed39bc4bcb7d</sys_id><sys_mod_count>1</sys_mod_count><sys_name>ReferenceError: angular is not defined</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_atf_whitelist_96eafee81b945810fe45ed39bc4bcb7d</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:18:59</sys_updated_on><test display_value="CICD_Dev_Ops Test 1">0d697aa81b945810fe45ed39bc4bcb34</test></sys_atf_whitelist></record_update>]]></payload>
+<payload_hash>1214198336</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>7a673df31b5b5c5094edddb6bc4bcbfa</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0c530000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>ReferenceError: angular is not defined</target_name>
+<type>Whitelisted Client Error</type>
+<update_domain>global</update_domain>
+<update_guid>dad6bdb31e5b5c50ed349bec5e0de550</update_guid>
+<update_guid_history>dad6bdb31e5b5c50ed349bec5e0de550:1214198336,a3ea7a2cba945810baefae8ce870bf57:1214198336,5aeafee8299458106092cc1871f59b7e:1801116426</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_module_05c2a6d71b4cd010fe45ed39bc4bcbaf</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="CICD_Dev_Ops">01c2a6d71b4cd010fe45ed39bc4bcbad</application><filter/><name>CICD_Dev_Ops Table</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_g_nci_cicd_dev_o.user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-13 21:21:00</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>05c2a6d71b4cd010fe45ed39bc4bcbaf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CICD_Dev_Ops Table</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_ui_module_05c2a6d71b4cd010fe45ed39bc4bcbaf</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-13 21:21:00</sys_updated_on><table>x_g_nci_cicd_dev_o_cicd_dev_ops_table</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+<payload_hash>-1739762500</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>7a673df31b5b5c5094edddb6bc4bcbfd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb08eb0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table>x_g_nci_cicd_dev_o_cicd_dev_ops_table</table>
+<target_name>CICD_Dev_Ops Table</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>0ad6bdb3b55b5c50671133f0eb107d21</update_guid>
+<update_guid_history>0ad6bdb3b55b5c50671133f0eb107d21:-1739762500,5dc2a6d7df4cd010cce20069553c50b0:-1739762500</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>gsw_change_log_d288c1c81b989410fe45ed39bc4bcb7a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log"><gsw_change_log action="INSERT_OR_UPDATE"><change_date>2020-04-15 22:42:13</change_date><changed_by display_value="Nadim Rizk">9a8aa85fdbcc8c50561276708c96198b</changed_by><content display_value="Download &amp; Install MID">c751d3dac39312007bf1bea192d3ae0a</content><related_change_log_entry/><related_task_entry/><sys_class_name>gsw_change_log</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-15 22:42:13</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>d288c1c81b989410fe45ed39bc4bcb7a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2020-04-15 22:42:13</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>gsw_change_log_d288c1c81b989410fe45ed39bc4bcb7a</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-15 22:42:13</sys_updated_on><type>7</type></gsw_change_log></record_update>]]></payload>
+<payload_hash>-1890951628</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>7e673df31b5b5c5094edddb6bc4bcb56</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0a940000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>2020-04-15 22:42:13</target_name>
+<type>Guided Setup Change Log</type>
+<update_domain>global</update_domain>
+<update_guid>c6d6bdb3785b5c50301e2d790c2e4537</update_guid>
+<update_guid_history>c6d6bdb3785b5c50301e2d790c2e4537:-1890951628,89c9c01c8618d410f4d18c0969680734:-1890951628</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_step_b13ab6e81b945810fe45ed39bc4bcb6c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Set the values on the form as follows:
+State = Open
+and Short description = test ATF for DevOps App
+and Description = test ATF with CICD Pipeline
+and Urgency = 3 - Low
+and Assignment group = ITIL read/only</description><display_name>Set Field Values</display_name><inputs/><mugshots_cache_json/><notes/><order>3</order><snapshot/><step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:17:03</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>b13ab6e81b945810fe45ed39bc4bcb6c</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Set Field Values</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_atf_step_b13ab6e81b945810fe45ed39bc4bcb6c</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:30:16</sys_updated_on><table>sc_task</table><test display_value="CICD_Dev_Ops Test 1">0d697aa81b945810fe45ed39bc4bcb34</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=b13ab6e81b945810fe45ed39bc4bcb6c"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>b13ab6e81b945810fe45ed39bc4bcb6c</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:17:03</sys_created_on><sys_id>577abee81b945810fe45ed39bc4bcbb4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:17:03</sys_updated_on><value>sc_task</value><variable display_value="">424ca6465320220002c6435723dc34b5</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>b13ab6e81b945810fe45ed39bc4bcb6c</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:17:03</sys_created_on><sys_id>5b7abee81b945810fe45ed39bc4bcbb4</sys_id><sys_mod_count>4</sys_mod_count><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:30:16</sys_updated_on><value>state=1^short_description=test ATF for DevOps App^description=test ATF with CICD Pipeline^urgency=3^assignment_group=7b4e75806f868a00e04fd15eae3ee488^EQ</value><variable display_value="">b3dba2465320220002c6435723dc34f0</variable></sys_variable_value></record_update>]]></payload>
+<payload_hash>-239669825</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>7e673df31b5b5c5094edddb6bc4bcbf9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0d0f0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table>sc_task</table>
+<target_name>Set Field Values</target_name>
+<type>Test Step</type>
+<update_domain>global</update_domain>
+<update_guid>92d6bdb3445b5c507e235cebfa6b8c59</update_guid>
+<update_guid_history>92d6bdb3445b5c507e235cebfa6b8c59:-239669825,c2da0c767b7a9c10ca2b626fed1a5891:-239669825,308d7eecf794581047d936db5d36aa47:784136424,f43df2ece89458105cb797d5329a34e0:-334397691,696c36ac02945810b64bf46097769d4b:-1842073461,ef0c3e6c6c94581091c2ad2091530dd7:1787943365,9f7abee8c5945810d96fba1400d625b5:805358978</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_70c266d71b4cd010fe45ed39bc4bcb98</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-13 21:20:59</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>70c266d71b4cd010fe45ed39bc4bcb98</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_g_nci_cicd_dev_o_cicd_dev_ops_table.x_g_nci_cicd_dev_o.user</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_security_acl display_value="x_g_nci_cicd_dev_o_cicd_dev_ops_table">fcc266d71b4cd010fe45ed39bc4bcb90</sys_security_acl><sys_update_name>sys_security_acl_role_70c266d71b4cd010fe45ed39bc4bcb98</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-13 21:20:59</sys_updated_on><sys_user_role display_value="x_g_nci_cicd_dev_o.user" name="x_g_nci_cicd_dev_o.user">68c266d71b4cd010fe45ed39bc4bcb33</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>797995897</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>7e673df31b5b5c5094edddb6bc4bcbfc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0b4c0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table>x_g_nci_cicd_dev_o_cicd_dev_ops_table</table>
+<target_name>x_g_nci_cicd_dev_o_cicd_dev_ops_table.x_g_nci_cicd_dev_o.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>86d6bdb3ef5b5c50f52a17183b111741</update_guid>
+<update_guid_history>86d6bdb3ef5b5c50f52a17183b111741:797995897,30c266d7314cd010716f9fceff35699c:797995897</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>gsw_change_log_347805081b989410fe45ed39bc4bcbeb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log"><gsw_change_log action="INSERT_OR_UPDATE"><change_date>2020-04-15 22:41:51</change_date><changed_by display_value="Nadim Rizk">9a8aa85fdbcc8c50561276708c96198b</changed_by><content display_value="Create MID User">a477d47ac35312007bf1bea192d3ae52</content><related_change_log_entry/><related_task_entry/><sys_class_name>gsw_change_log</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-15 22:41:51</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>347805081b989410fe45ed39bc4bcbeb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2020-04-15 22:41:51</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>gsw_change_log_347805081b989410fe45ed39bc4bcbeb</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-15 22:41:51</sys_updated_on><type>1</type></gsw_change_log></record_update>]]></payload>
+<payload_hash>703644882</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>b2673df31b5b5c5094edddb6bc4bcb55</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb09d40000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>2020-04-15 22:41:51</target_name>
+<type>Guided Setup Change Log</type>
+<update_domain>global</update_domain>
+<update_guid>ced6bdb3dd5b5c506d96d5bc9303582a</update_guid>
+<update_guid_history>ced6bdb3dd5b5c506d96d5bc9303582a:703644882,78c9c01c9918d410d202eac46ccdda27:703644882</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_g_nci_cicd_dev_o_cicd_dev_ops_table__en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="CICD_Dev_Ops Table" language="en" table="x_g_nci_cicd_dev_o_cicd_dev_ops_table"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>CICD_Dev_Ops Table</label><language>en</language><name>x_g_nci_cicd_dev_o_cicd_dev_ops_table</name><plural>CICD_Dev_Ops Tables</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-13 21:21:00</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>49c2a6d71b4cd010fe45ed39bc4bcb33</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CICD_Dev_Ops Table</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_documentation_x_g_nci_cicd_dev_o_cicd_dev_ops_table__en</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-13 21:21:00</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>404472226</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>b2673df31b5b5c5094edddb6bc4bcbfb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0b890000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table>x_g_nci_cicd_dev_o_cicd_dev_ops_table</table>
+<target_name>CICD_Dev_Ops Table</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>0ed6bdb3da5b5c5001815adcb8739945</update_guid>
+<update_guid_history>0ed6bdb3da5b5c5001815adcb8739945:404472226,0dc2a6d71b4cd010408a0ffbd9cac83f:404472226</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_wizard_answer_8dc2a6d71b4cd010fe45ed39bc4bcb31</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>CICD_Dev_Ops Table</answer><button_label/><dependent_value/><element/><name>CICD_Dev_Ops Table</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">2ce745436f022100250e6bbeae3ee45b</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-13 21:21:00</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>8dc2a6d71b4cd010fe45ed39bc4bcb31</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CICD_Dev_Ops Table</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_wizard_answer_8dc2a6d71b4cd010fe45ed39bc4bcb31</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-13 21:21:00</sys_updated_on><table/><target_url>x_g_nci_cicd_dev_o_cicd_dev_ops_table.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+<payload_hash>-1072030395</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>b2673df31b5b5c5094edddb6bc4bcbfe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0c150000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>CICD_Dev_Ops Table</target_name>
+<type>Answer</type>
+<update_domain>global</update_domain>
+<update_guid>9ad6bdb3a05b5c50951b71e75e22024d</update_guid>
+<update_guid_history>9ad6bdb3a05b5c50951b71e75e22024d:-1072030395,7b93aa1b4d4cd010d426a40a4016e2b2:-1072030395</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_60c2a2971b4cd010fe45ed39bc4bcb2a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>log</enforce_license><guided_setup_guid/><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu display_value="CICD_Dev_Ops">68c226d71b4cd010fe45ed39bc4bcb1e</menu><name>CICD_Dev_Ops</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_g_nci_cicd_dev_o</scope><scoped_administration>false</scoped_administration><short_description/><source>x_g_nci_cicd_dev_o</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-13 21:20:58</sys_created_on><sys_id>60c2a2971b4cd010fe45ed39bc4bcb2a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-13 21:20:58</sys_updated_on><template/><trackable>true</trackable><user_role display_value="x_g_nci_cicd_dev_o.user" name="x_g_nci_cicd_dev_o.user">68c266d71b4cd010fe45ed39bc4bcb33</user_role><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload_hash>1891819844</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>b6673df31b5b5c5094edddb6bc4bcb57</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb08a00000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>CICD_Dev_Ops</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>06d6bdb3a45b5c50e12b02d3bd7c181e</update_guid>
+<update_guid_history>06d6bdb3a45b5c50e12b02d3bd7c181e:1891819844,76fc7c72ebbe9c1098717d06779f7b55:1891819844,b1da0c761a7a9c102abb10999f213056:1657508844,20c266d7d24cd010ba4fc4c3cd42f63c:1661632769</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_test_0d697aa81b945810fe45ed39bc4bcb34</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test"><sys_atf_test action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description/><enable_parameterized_testing>false</enable_parameterized_testing><name>CICD_Dev_Ops Test 1</name><parameters/><remember/><sys_class_name>sys_atf_test</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:12:39</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>0d697aa81b945810fe45ed39bc4bcb34</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CICD_Dev_Ops Test 1</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_atf_test_0d697aa81b945810fe45ed39bc4bcb34</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:12:39</sys_updated_on></sys_atf_test><sys_variable_value action="delete_multiple" query="document_key=0d697aa81b945810fe45ed39bc4bcb34"/></record_update>]]></payload>
+<payload_hash>1537639804</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>b6673df31b5b5c5094edddb6bc4bcbfa</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb09290000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>CICD_Dev_Ops Test 1</target_name>
+<type>Test</type>
+<update_domain>global</update_domain>
+<update_guid>cad6bdb3775b5c507edd5548b97d1323</update_guid>
+<update_guid_history>cad6bdb3775b5c507edd5548b97d1323:1537639804,32793aa856945810ca6dcf50f0a98d79:1537639804</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_application_01c2a6d71b4cd010fe45ed39bc4bcbad</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>CICD_Dev_Ops</name><order/><roles>x_g_nci_cicd_dev_o.user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-13 21:21:00</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>01c2a6d71b4cd010fe45ed39bc4bcbad</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CICD_Dev_Ops</sys_name><sys_overrides/><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_ui_application_01c2a6d71b4cd010fe45ed39bc4bcbad</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-13 21:21:00</sys_updated_on></sys_ui_application></record_update>]]></payload>
+<payload_hash>287987080</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>b6673df31b5b5c5094edddb6bc4bcbfd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb08c50000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>CICD_Dev_Ops</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>8ed6bdb3855b5c50a427788315fe4d1f</update_guid>
+<update_guid_history>8ed6bdb3855b5c50a427788315fe4d1f:287987080,c5c2a6d7f04cd010b05f9ed11230f3ae:287987080</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>gsw_change_log_bc788d881b989410fe45ed39bc4bcb5f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log"><gsw_change_log action="INSERT_OR_UPDATE"><change_date>2020-04-15 22:41:51</change_date><changed_by display_value="Nadim Rizk">9a8aa85fdbcc8c50561276708c96198b</changed_by><content display_value="Download &amp; Install MID">c751d3dac39312007bf1bea192d3ae0a</content><related_change_log_entry/><related_task_entry/><sys_class_name>gsw_change_log</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-15 22:41:51</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>bc788d881b989410fe45ed39bc4bcb5f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2020-04-15 22:41:51</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>gsw_change_log_bc788d881b989410fe45ed39bc4bcb5f</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-15 22:41:51</sys_updated_on><type>1</type></gsw_change_log></record_update>]]></payload>
+<payload_hash>-1772934856</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>ba673df31b5b5c5094edddb6bc4bcb56</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0a810000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>2020-04-15 22:41:51</target_name>
+<type>Guided Setup Change Log</type>
+<update_domain>global</update_domain>
+<update_guid>42d6bdb3955b5c504a91d970c9374636</update_guid>
+<update_guid_history>42d6bdb3955b5c504a91d970c9374636:-1772934856,c1c9c01cf118d410df3d261ec242c033:-1772934856</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_step_a8f936e81b945810fe45ed39bc4bcb47</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Impersonate the user:  devops with user Id: devops</description><display_name>Impersonate</display_name><inputs/><mugshots_cache_json/><notes/><order>1</order><snapshot/><step_config display_value="Impersonate">071ee5b253331200040729cac2dc348d</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:15:12</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>a8f936e81b945810fe45ed39bc4bcb47</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Impersonate</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_atf_step_a8f936e81b945810fe45ed39bc4bcb47</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:41:00</sys_updated_on><table/><test display_value="CICD_Dev_Ops Test 1">0d697aa81b945810fe45ed39bc4bcb34</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=a8f936e81b945810fe45ed39bc4bcb47"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>a8f936e81b945810fe45ed39bc4bcb47</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:15:12</sys_created_on><sys_id>101ab6e81b945810fe45ed39bc4bcbe0</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:41:00</sys_updated_on><value>9cb813ef1b48541094edddb6bc4bcbd4</value><variable display_value="">586e2c4253e0220002c6435723dc3415</variable></sys_variable_value></record_update>]]></payload>
+<payload_hash>915458689</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>ba673df31b5b5c5094edddb6bc4bcbf9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0ce10000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>Impersonate</target_name>
+<type>Test Step</type>
+<update_domain>global</update_domain>
+<update_guid>5ed6bdb3fa5b5c503eb5b04363559e56</update_guid>
+<update_guid_history>5ed6bdb3fa5b5c503eb5b04363559e56:915458689,82da0c76d67a9c10c590721152c5b28e:915458689,c2ff3aa0ded45810e432b1581d369688:780490730,d02ab6e80b9458104c655c2c77b025eb:1379819369,d01ab6e8fa945810a23b1ec278a402e1:1072507080</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_38c266d71b4cd010fe45ed39bc4bcbea</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-13 21:20:59</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>38c266d71b4cd010fe45ed39bc4bcbea</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_g_nci_cicd_dev_o_cicd_dev_ops_table.x_g_nci_cicd_dev_o.user</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_security_acl display_value="x_g_nci_cicd_dev_o_cicd_dev_ops_table">f8c266d71b4cd010fe45ed39bc4bcbe4</sys_security_acl><sys_update_name>sys_security_acl_role_38c266d71b4cd010fe45ed39bc4bcbea</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-13 21:20:59</sys_updated_on><sys_user_role display_value="x_g_nci_cicd_dev_o.user" name="x_g_nci_cicd_dev_o.user">68c266d71b4cd010fe45ed39bc4bcb33</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1577991334</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>ba673df31b5b5c5094edddb6bc4bcbfc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0b3a0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table>x_g_nci_cicd_dev_o_cicd_dev_ops_table</table>
+<target_name>x_g_nci_cicd_dev_o_cicd_dev_ops_table.x_g_nci_cicd_dev_o.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>ced6bdb3f45b5c50bc3c0ed7194cdc3f</update_guid>
+<update_guid_history>ced6bdb3f45b5c50bc3c0ed7194cdc3f:1577991334,7cc2a6d7f14cd010f26b4330f02ce212:1577991334</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>gsw_change_log_7c788d881b989410fe45ed39bc4bcb22</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log"><gsw_change_log action="INSERT_OR_UPDATE"><change_date>2020-04-15 22:41:51</change_date><changed_by display_value="Nadim Rizk">9a8aa85fdbcc8c50561276708c96198b</changed_by><content display_value="MID Server ">743013dac39312007bf1bea192d3aea8</content><related_change_log_entry/><related_task_entry/><sys_class_name>gsw_change_log</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-15 22:41:51</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>7c788d881b989410fe45ed39bc4bcb22</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2020-04-15 22:41:51</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>gsw_change_log_7c788d881b989410fe45ed39bc4bcb22</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-15 22:41:51</sys_updated_on><type>1</type></gsw_change_log></record_update>]]></payload>
+<payload_hash>-195206638</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>be673df31b5b5c5094edddb6bc4bcb55</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0a270000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>2020-04-15 22:41:51</target_name>
+<type>Guided Setup Change Log</type>
+<update_domain>global</update_domain>
+<update_guid>c6d6bdb39d5b5c507e6f233e58859830</update_guid>
+<update_guid_history>c6d6bdb39d5b5c507e6f233e58859830:-195206638,45c9c01c7218d4106a351ebf0b406a2d:-195206638</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_b8c2a6d71b4cd010fe45ed39bc4bcb13</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_g_nci_cicd_dev_o_cicd_dev_ops_table</description><name>x_g_nci_cicd_dev_o_cicd_dev_ops_table</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-13 21:20:59</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>b8c2a6d71b4cd010fe45ed39bc4bcb13</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_g_nci_cicd_dev_o_cicd_dev_ops_table</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_security_acl_b8c2a6d71b4cd010fe45ed39bc4bcb13</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-13 21:20:59</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1407062556</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>be673df31b5b5c5094edddb6bc4bcbfb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0d9c0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table>x_g_nci_cicd_dev_o_cicd_dev_ops_table</table>
+<target_name>x_g_nci_cicd_dev_o_cicd_dev_ops_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>92d6bdb3af5b5c50bacb833c5596d25f</update_guid>
+<update_guid_history>92d6bdb3af5b5c50bacb833c5596d25f:1407062556,3cc2a6d73a4cd0105275d511cedd3418:1407062556</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>gsw_change_log_ed8881c81b989410fe45ed39bc4bcb78</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log"><gsw_change_log action="INSERT_OR_UPDATE"><change_date>2020-04-15 22:42:10</change_date><changed_by display_value="Nadim Rizk">9a8aa85fdbcc8c50561276708c96198b</changed_by><content display_value="Create MID User">a477d47ac35312007bf1bea192d3ae52</content><related_change_log_entry/><related_task_entry/><sys_class_name>gsw_change_log</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-15 22:42:10</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>ed8881c81b989410fe45ed39bc4bcb78</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2020-04-15 22:42:10</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>gsw_change_log_ed8881c81b989410fe45ed39bc4bcb78</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-15 22:42:10</sys_updated_on><type>1</type></gsw_change_log></record_update>]]></payload>
+<payload_hash>485164178</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>f2673df31b5b5c5094edddb6bc4bcb57</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0ac00000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>2020-04-15 22:42:10</target_name>
+<type>Guided Setup Change Log</type>
+<update_domain>global</update_domain>
+<update_guid>06d6bdb3c15b5c508ecb6030f4732f3a</update_guid>
+<update_guid_history>06d6bdb3c15b5c508ecb6030f4732f3a:485164178,49c9c01c2618d410835659792a9d4c37:485164178</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_step_ca8afee81b945810fe45ed39bc4bcb39</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Submit the current form and confirm form submitted to server</description><display_name>Submit a Form</display_name><inputs/><mugshots_cache_json/><notes/><order>4</order><snapshot/><step_config display_value="Submit a Form">be8e0a935332120028bc29cac2dc34e4</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:17:19</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>ca8afee81b945810fe45ed39bc4bcb39</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Submit a Form</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_atf_step_ca8afee81b945810fe45ed39bc4bcb39</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:17:19</sys_updated_on><table/><test display_value="CICD_Dev_Ops Test 1">0d697aa81b945810fe45ed39bc4bcb34</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=ca8afee81b945810fe45ed39bc4bcb39"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>ca8afee81b945810fe45ed39bc4bcb39</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-17 20:17:19</sys_created_on><sys_id>538af6a81b945810fe45ed39bc4bcb68</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-17 20:17:19</sys_updated_on><value>form_submitted_to_server</value><variable display_value="">c796d40497302200abe4bb7503ac4ad8</variable></sys_variable_value></record_update>]]></payload>
+<payload_hash>2106112538</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>f2673df31b5b5c5094edddb6bc4bcbfa</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0d770000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>Submit a Form</target_name>
+<type>Test Step</type>
+<update_domain>global</update_domain>
+<update_guid>5ad6bdb3bc5b5c50d82002be6db0ff5d</update_guid>
+<update_guid_history>5ad6bdb3bc5b5c50d82002be6db0ff5d:2106112538,8eda0c76747a9c10f6306ec7b61e15c8:2106112538,178af6a8249458102f6dc66b9e549269:1628018051</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_f4c2a6d71b4cd010fe45ed39bc4bcb19</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-13 21:20:59</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>f4c2a6d71b4cd010fe45ed39bc4bcb19</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_g_nci_cicd_dev_o_cicd_dev_ops_table.x_g_nci_cicd_dev_o.user</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_security_acl display_value="x_g_nci_cicd_dev_o_cicd_dev_ops_table">b8c2a6d71b4cd010fe45ed39bc4bcb13</sys_security_acl><sys_update_name>sys_security_acl_role_f4c2a6d71b4cd010fe45ed39bc4bcb19</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-13 21:20:59</sys_updated_on><sys_user_role display_value="x_g_nci_cicd_dev_o.user" name="x_g_nci_cicd_dev_o.user">68c266d71b4cd010fe45ed39bc4bcb33</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1867276498</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>f2673df31b5b5c5094edddb6bc4bcbfd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0b740000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table>x_g_nci_cicd_dev_o_cicd_dev_ops_table</table>
+<target_name>x_g_nci_cicd_dev_o_cicd_dev_ops_table.x_g_nci_cicd_dev_o.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>06d6bdb3d25b5c50b36e159fe1c91444</update_guid>
+<update_guid_history>06d6bdb3d25b5c50b36e159fe1c91444:1867276498,f4c2a6d7904cd0103cf712347b7c061c:1867276498</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>gsw_change_log_ad8881c81b989410fe45ed39bc4bcbf2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log"><gsw_change_log action="INSERT_OR_UPDATE"><change_date>2020-04-15 22:42:10</change_date><changed_by display_value="Nadim Rizk">9a8aa85fdbcc8c50561276708c96198b</changed_by><content display_value="Download &amp; Install MID">c751d3dac39312007bf1bea192d3ae0a</content><related_change_log_entry/><related_task_entry/><sys_class_name>gsw_change_log</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-15 22:42:10</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>ad8881c81b989410fe45ed39bc4bcbf2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2020-04-15 22:42:10</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>gsw_change_log_ad8881c81b989410fe45ed39bc4bcbf2</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-15 22:42:10</sys_updated_on><type>1</type></gsw_change_log></record_update>]]></payload>
+<payload_hash>-1056321292</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>f6673df31b5b5c5094edddb6bc4bcb56</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0a6a0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>2020-04-15 22:42:10</target_name>
+<type>Guided Setup Change Log</type>
+<update_domain>global</update_domain>
+<update_guid>cad6bdb3145b5c50b8aa9c9c73672734</update_guid>
+<update_guid_history>cad6bdb3145b5c50b8aa9c9c73672734:-1056321292,0dc9c01cdb18d4106cbdb286792b9531:-1056321292</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_fcc266d71b4cd010fe45ed39bc4bcb90</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_g_nci_cicd_dev_o_cicd_dev_ops_table</description><name>x_g_nci_cicd_dev_o_cicd_dev_ops_table</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-13 21:20:59</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>fcc266d71b4cd010fe45ed39bc4bcb90</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_g_nci_cicd_dev_o_cicd_dev_ops_table</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_security_acl_fcc266d71b4cd010fe45ed39bc4bcb90</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-13 21:20:59</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1553428158</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>f6673df31b5b5c5094edddb6bc4bcbfc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0df30000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table>x_g_nci_cicd_dev_o_cicd_dev_ops_table</table>
+<target_name>x_g_nci_cicd_dev_o_cicd_dev_ops_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>16d6bdb3e75b5c500d48fba8c8d34663</update_guid>
+<update_guid_history>16d6bdb3e75b5c500d48fba8c8d34663:1553428158,74c266d7414cd010dfbefb6e28c9bc97:1553428158</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>gsw_change_log_658801c81b989410fe45ed39bc4bcb0a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log"><gsw_change_log action="INSERT_OR_UPDATE"><change_date>2020-04-15 22:42:10</change_date><changed_by display_value="Nadim Rizk">9a8aa85fdbcc8c50561276708c96198b</changed_by><content display_value="Validate MID">d2d157dac39312007bf1bea192d3aea6</content><related_change_log_entry/><related_task_entry/><sys_class_name>gsw_change_log</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-15 22:42:10</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>658801c81b989410fe45ed39bc4bcb0a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2020-04-15 22:42:10</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>gsw_change_log_658801c81b989410fe45ed39bc4bcb0a</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-15 22:42:10</sys_updated_on><type>1</type></gsw_change_log></record_update>]]></payload>
+<payload_hash>-1425264932</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>fa673df31b5b5c5094edddb6bc4bcb55</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0a0d0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>2020-04-15 22:42:10</target_name>
+<type>Guided Setup Change Log</type>
+<update_domain>global</update_domain>
+<update_guid>42d6bdb3ff5b5c50ed6569ca6686902f</update_guid>
+<update_guid_history>42d6bdb3ff5b5c50ed6569ca6686902f:-1425264932,8dc9c01cdd18d410065ede30f75a3e2b:-1425264932</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_portal_page_200f313c1b5f5810fe45ed39bc4bcb69</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-09-23 20:50:08"><sys_portal_page action="INSERT_OR_UPDATE"><layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout><order/><read_roles>snc_internal</read_roles><roles/><selectable>false</selectable><sys_class_name>sys_portal_page</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-09-14 13:44:01</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>200f313c1b5f5810fe45ed39bc4bcb69</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package/><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name/><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-09-14 13:44:01</sys_updated_on><title>My Homepage 1</title><user display_value="Nadim Rizk">9a8aa85fdbcc8c50561276708c96198b</user><view/><related_items_node><sys_portal action="INSERT_OR_UPDATE"><dropzone>dropzone1</dropzone><offset>0</offset><page display_value="My Homepage 1">200f313c1b5f5810fe45ed39bc4bcb69</page><summary>New Page</summary><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-09-14 13:44:01</sys_created_on><sys_id>6c0f753c1b5f5810fe45ed39bc4bcb78</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-09-14 13:44:01</sys_updated_on><related_items_node><sys_portal_preferences action="INSERT_OR_UPDATE"><name>renderer</name><portal_section display_value="Created 09/14/2020 09:44:01">6c0f753c1b5f5810fe45ed39bc4bcb78</portal_section><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-09-14 13:44:01</sys_created_on><sys_id>280f753c1b5f5810fe45ed39bc4bcb79</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-09-14 13:44:01</sys_updated_on><value>com.glide.ui.portal.RenderGadget</value></sys_portal_preferences><sys_portal_preferences action="INSERT_OR_UPDATE"><name>title</name><portal_section display_value="Created 09/14/2020 09:44:01">6c0f753c1b5f5810fe45ed39bc4bcb78</portal_section><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-09-14 13:44:01</sys_created_on><sys_id>600f753c1b5f5810fe45ed39bc4bcb7a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-09-14 13:44:01</sys_updated_on><value>New Page</value></sys_portal_preferences><sys_portal_preferences action="INSERT_OR_UPDATE"><name>type</name><portal_section display_value="Created 09/14/2020 09:44:01">6c0f753c1b5f5810fe45ed39bc4bcb78</portal_section><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-09-14 13:44:01</sys_created_on><sys_id>7c0f753c1b5f5810fe45ed39bc4bcb7a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-09-14 13:44:01</sys_updated_on><value>new</value></sys_portal_preferences></related_items_node></sys_portal></related_items_node></sys_portal_page></record_update>]]></payload>
+<payload_hash>-3230921</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>fa673df31b5b5c5094edddb6bc4bcbfb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb095d0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>My Homepage 1</target_name>
+<type>Portal Page</type>
+<update_domain>global</update_domain>
+<update_guid>02d6bdb3aa5b5c5044ed224e9aa14426</update_guid>
+<update_guid_history>02d6bdb3aa5b5c5044ed224e9aa14426:-3230921,1ed7057b92175c50a530dd6c645104b6:-1663727468,d7a105332b175c50de85629b414b7a2d:1497088266,4991783b55935c50c37cc68dc69bb50e:-761303542,d639e8fb05535c5026f01b4068d574e0:26459376,573e90fb76135c50ef1572c2065bee01:-777926161,49dc107bbc135c504bddcf0f8d89c3c4:-1404397530,a557107349135c50930c49510f545b9f:56881517</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>gsw_change_log_307841481b989410fe45ed39bc4bcbc7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log"><gsw_change_log action="INSERT_OR_UPDATE"><change_date>2020-04-15 22:41:51</change_date><changed_by display_value="Nadim Rizk">9a8aa85fdbcc8c50561276708c96198b</changed_by><content display_value="Validate MID">d2d157dac39312007bf1bea192d3aea6</content><related_change_log_entry/><related_task_entry/><sys_class_name>gsw_change_log</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-15 22:41:51</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>307841481b989410fe45ed39bc4bcbc7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2020-04-15 22:41:51</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>gsw_change_log_307841481b989410fe45ed39bc4bcbc7</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-15 22:41:51</sys_updated_on><type>1</type></gsw_change_log></record_update>]]></payload>
+<payload_hash>-1094489440</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>fe673df31b5b5c5094edddb6bc4bcb54</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb09bf0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>2020-04-15 22:41:51</target_name>
+<type>Guided Setup Change Log</type>
+<update_domain>global</update_domain>
+<update_guid>0ad6bdb3335b5c50a52b7acf448dc829</update_guid>
+<update_guid_history>0ad6bdb3335b5c50a52b7acf448dc829:-1094489440,70c9c01ced18d410f9943383a813bd26:-1094489440</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_g_nci_cicd_dev_o_cicd_dev_ops_table_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_g_nci_cicd_dev_o_cicd_dev_ops_table"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>live_feed=true</attributes><audit>true</audit><calculation>(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);</calculation><choice/><choice_field/><choice_table/><column_label/><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element/><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="Collection">collection</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_g_nci_cicd_dev_o_cicd_dev_ops_table</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass>0</sizeclass><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-13 21:20:59</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>f0c2a6d71b4cd010fe45ed39bc4bcb1d</sys_id><sys_mod_count>3</sys_mod_count><sys_name>x_g_nci_cicd_dev_o_cicd_dev_ops_table</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_dictionary_x_g_nci_cicd_dev_o_cicd_dev_ops_table_null</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2020-08-27 10:43:32</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><u_model_id/><u_normalize_set/><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>125786285</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>fe673df31b5b5c5094edddb6bc4bcbfa</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0e370000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table>x_g_nci_cicd_dev_o_cicd_dev_ops_table</table>
+<target_name>CICD_Dev_Ops Table</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>96d6bdb3c95b5c50010347c4839ac166</update_guid>
+<update_guid_history>96d6bdb3c95b5c50010347c4839ac166:125786285,1fa419cb677e10506c0c377b194d2d1b:125786285,42da0c76467a9c104d537986089ad0d2:730701488,d075d218e4501810256f977cc666a0ce:-461799250,0f9503a332085410ce1ac7782503d5e3:579613179,4dc2a6d7484cd010a0e957d96c09fe7a:-208790659,c5c2a6d7774cd010dbd2b740b520aa3e:-1225243446</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_68c266d71b4cd010fe45ed39bc4bcb33</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><encryption_context/><grantable>true</grantable><includes_roles/><name>x_g_nci_cicd_dev_o.user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-04-13 21:20:58</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>68c266d71b4cd010fe45ed39bc4bcb33</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_g_nci_cicd_dev_o.user</sys_name><sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</sys_scope><sys_update_name>sys_user_role_68c266d71b4cd010fe45ed39bc4bcb33</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-04-13 21:20:58</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>-575644991</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.0">36673df31b5b5c5094edddb6bc4bcb54</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-09-23 20:52:38</sys_created_on>
+<sys_id>fe673df31b5b5c5094edddb6bc4bcbfd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>174bcbb0bd90000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-09-23 20:52:38</sys_updated_on>
+<table/>
+<target_name>x_g_nci_cicd_dev_o.user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>d6d6bdb3f95b5c5072d2a22d1619394a</update_guid>
+<update_guid_history>d6d6bdb3f95b5c5072d2a22d1619394a:-575644991,fb93aa1bf24cd010c172af4f531e2dad:-575644991,e8c266d7ba4cd010684ba2a14a193636:81649009</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
