@@ -1,0 +1,23 @@
+{
+  "layout": "f6defafa0a0a0b12000d5016bd12ff06",
+  "order": null,
+  "read_roles": "snc_internal",
+  "related_items_node": null,
+  "roles": null,
+  "selectable": false,
+  "sys_class_name": "sys_portal_page",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-09-14 13:44:01",
+  "sys_id": "200f313c1b5f5810fe45ed39bc4bcb69",
+  "sys_mod_count": 0,
+  "sys_name": null,
+  "sys_package": null,
+  "sys_policy": null,
+  "sys_scope": "60c2a2971b4cd010fe45ed39bc4bcb2a",
+  "sys_update_name": null,
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-09-14 13:44:01",
+  "title": "My Homepage 1",
+  "user": "9a8aa85fdbcc8c50561276708c96198b",
+  "view": null
+}
