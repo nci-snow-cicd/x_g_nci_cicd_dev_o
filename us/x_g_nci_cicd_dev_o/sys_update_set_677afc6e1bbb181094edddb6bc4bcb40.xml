@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-10-14 15:53:36">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<application_name>CICD_Dev_Ops</application_name>
+<application_scope>x_g_nci_cicd_dev_o</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>CICD_Dev_Ops - 1.0.2</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>677afc6e1bbb181094edddb6bc4bcb40</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-10-14 15:53:35</sys_created_on>
+<sys_id>b25c78221bfb181094edddb6bc4bcbcb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-10-14 15:53:35</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_script_619ab0ae1bbb181094edddb6bc4bcbf0</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_script"&gt;&lt;sys_ui_script action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;description/&gt;&lt;global&gt;false&lt;/global&gt;&lt;name&gt;x_g_nci_cicd_dev_o.UI_SCRIPT_TEST&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var x_g_nci_cicd_dev_o = x_g_nci_cicd_dev_o || {};
+
+x_g_nci_cicd_dev_o.UI_SCRIPT_TEST = (function() {
+	"use strict";
+
+/* set your private variables and functions here. For example: 
+	var privateVar = 0; 
+	function private_function() {
+		return ++privateVar;
+	}
+*/
+
+/* Share variables between multiple UI scripts by adding them to your scope object. For example: 
+	x_g_nci_cicd_dev_o.sharedVar = 0; 
+
+ Then access them in your scripts the same way. For example: 
+	function get_shared() {
+		return x_g_nci_cicd_dev_o.sharedVar;
+	}
+*/
+
+	return {
+
+/* set your public API here. For example:
+		incrementAndReturnPrivateVar: function() {
+			return private_function();
+		},
+*/
+		type:  "UI_SCRIPT_TEST"
+	};
+})();
+
+/**
+ * Description
+ * 
+ * @param {any} control
+ * @param {any} oldValue
+ * @param {any} newValue
+ * @param {any} isLoading
+ * @author Nadim Rizk [rizknt@nih.gov]
+ * @memberof x_g_nci_cicd_dev_o.module:sys_ui_script
+ * @returns {undefined}
+ */
+function onChange(control, oldValue, newValue, isLoading)  {
+   
+    // This is important to prevent loop-like behavior
+    if (isLoading || newValue == '') {
+        return;
+    }
+   
+    var ga = new GlideAjax('QuickDateCheck');    
+    ga.addParam('sysparm_name','isPastDateTime');    
+    ga.addParam('sysparm_test_date', newValue);    
+    ga.getXMLAnswer(checkAllowed);
+   
+    // Based on our script include, inform the user
+    /**
+     * Description
+     * 
+     * @param {any} answer
+     * @returns {undefined}
+     */
+    function checkAllowed(answer){        
+        if (answer !== 'true') {            
+            g_form.addErrorMessage('Discovery date can\'t be in the future');
+            g_form.clearValue('last_discovered');            
+        }    
+    }    
+
+}
+]]&gt;&lt;/script&gt;&lt;script_name&gt;UI_SCRIPT_TEST&lt;/script_name&gt;&lt;sys_class_name&gt;sys_ui_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rizknt@nih.gov&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-10-14 15:52:30&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;619ab0ae1bbb181094edddb6bc4bcbf0&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_g_nci_cicd_dev_o.UI_SCRIPT_TEST&lt;/sys_name&gt;&lt;sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o"&gt;60c2a2971b4cd010fe45ed39bc4bcb2a&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CICD_Dev_Ops"&gt;60c2a2971b4cd010fe45ed39bc4bcb2a&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_script_619ab0ae1bbb181094edddb6bc4bcbf0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rizknt@nih.gov&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-10-14 15:52:45&lt;/sys_updated_on&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;use_scoped_format&gt;false&lt;/use_scoped_format&gt;&lt;/sys_ui_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>821830575</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.2">b25c78221bfb181094edddb6bc4bcbcb</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-10-14 15:53:35</sys_created_on>
+<sys_id>3a5c78221bfb181094edddb6bc4bcbcb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17527d0518e0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-10-14 15:53:35</sys_updated_on>
+<table/>
+<target_name>x_g_nci_cicd_dev_o.UI_SCRIPT_TEST</target_name>
+<type>UI Script</type>
+<update_domain>global</update_domain>
+<update_guid>a62c74ea8abb18109bf5dc7e8a014fb1</update_guid>
+<update_guid_history>a62c74ea8abb18109bf5dc7e8a014fb1:821830575,cb1c30ae1ebb181057f08883709beec4:-689216579</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
