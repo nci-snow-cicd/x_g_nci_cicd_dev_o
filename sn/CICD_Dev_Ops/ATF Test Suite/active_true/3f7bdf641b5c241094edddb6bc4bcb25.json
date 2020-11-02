@@ -1,0 +1,19 @@
+{
+  "active": true,
+  "description": null,
+  "input_filter": "sys_scope=60c2a2971b4cd010fe45ed39bc4bcb2a^EQ",
+  "name": "CICD_Dev_Ops Test Suite",
+  "parent": null,
+  "sys_class_name": "sys_atf_test_suite",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-11-02 18:52:42",
+  "sys_id": "3f7bdf641b5c241094edddb6bc4bcb25",
+  "sys_mod_count": 0,
+  "sys_name": "CICD_Dev_Ops Test Suite",
+  "sys_package": "60c2a2971b4cd010fe45ed39bc4bcb2a",
+  "sys_policy": null,
+  "sys_scope": "60c2a2971b4cd010fe45ed39bc4bcb2a",
+  "sys_update_name": "sys_atf_test_suite_3f7bdf641b5c241094edddb6bc4bcb25",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-11-02 18:52:42"
+}

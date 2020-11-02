@@ -1,0 +1,14 @@
+{
+  "document": "sys_atf_step",
+  "document_key": "fba81f201b98241094edddb6bc4bcbfd",
+  "order": 100,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-11-02 18:40:08",
+  "sys_id": "f3a81f201b98241094edddb6bc4bcbff",
+  "sys_mod_count": 1,
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-11-02 18:40:40",
+  "value": "state=1^short_description=test ATF for DevOps App - Run Second Test^description=test ATF with CICD Pipeline - Run Second Test^urgency=2^assignment_group=7b4e75806f868a00e04fd15eae3ee488^EQ",
+  "variable": "b3dba2465320220002c6435723dc34f0"
+}
