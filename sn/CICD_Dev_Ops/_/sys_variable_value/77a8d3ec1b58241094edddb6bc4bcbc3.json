@@ -1,0 +1,14 @@
+{
+  "document": "sys_atf_step",
+  "document_key": "b3a8d3ec1b58241094edddb6bc4bcbc2",
+  "order": 100,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-11-02 18:40:08",
+  "sys_id": "77a8d3ec1b58241094edddb6bc4bcbc3",
+  "sys_mod_count": 0,
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-11-02 18:40:08",
+  "value": "x_g_nci_cicd_dev_o_cicd_dev_ops_table",
+  "variable": "bb84ed825320220002c6435723dc3400"
+}
