@@ -3,7 +3,7 @@
  * ClassName   : sys_ui_script
  * Created On  : 2020-10-14 15:52:30
  * Created By  : rizknt@nih.gov
- * Updated On  : 2020-10-14 15:52:45
+ * Updated On  : 2020-11-04 16:59:38
  * Updated By  : rizknt@nih.gov
  * URL         : /sys_ui_script.do?sys_id=619ab0ae1bbb181094edddb6bc4bcbf0
  */
@@ -70,10 +70,10 @@ function onChange(control, oldValue, newValue, isLoading)  {
      * @returns {undefined}
      */
     function checkAllowed(answer){        
-        if (answer !== 'true') {            
+       /* if (answer !== 'true') {            
             g_form.addErrorMessage('Discovery date can\'t be in the future');
             g_form.clearValue('last_discovered');            
-        }    
+        }*/    
     }    
 
 }
