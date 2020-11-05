@@ -3,7 +3,7 @@
  * ClassName   : sys_script_include
  * Created On  : 2020-10-14 15:30:18
  * Created By  : rizknt@nih.gov
- * Updated On  : 2020-11-04 16:58:36
+ * Updated On  : 2020-11-05 16:15:04
  * Updated By  : rizknt@nih.gov
  * URL         : /sys_script_include.do?sys_id=d7b67ce61bbb181094edddb6bc4bcbac
  */
@@ -14,8 +14,7 @@
  * @author Nadim Rizk [rizknt@nih.gov]
  * @memberof x_g_nci_cicd_dev_o.module:sys_script_include
  */
-var test = "1234";
-var testscript = "6789";
+
 var Test_Script_Include_Demo = Class.create();
 Test_Script_Include_Demo.prototype = /** @lends x_g_nci_cicd_dev_o.module:sys_script_include.Test_Script_Include_Demo.prototype */ {
     /**
