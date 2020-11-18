@@ -3,7 +3,7 @@
  * ClassName   : sys_ui_script
  * Created On  : 2020-10-14 15:52:30
  * Created By  : rizknt@nih.gov
- * Updated On  : 2020-11-05 16:17:03
+ * Updated On  : 2020-11-18 19:05:59
  * Updated By  : rizknt@nih.gov
  * URL         : /sys_ui_script.do?sys_id=619ab0ae1bbb181094edddb6bc4bcbf0
  */
@@ -12,12 +12,12 @@ var x_g_nci_cicd_dev_o = x_g_nci_cicd_dev_o || {};
 x_g_nci_cicd_dev_o.UI_SCRIPT_TEST = (function() {
 	"use strict";
 
-/* set your private variables and functions here. For example: 
+ //set your private variables and functions here. For example: 
 	var privateVar = 0; 
 	function private_function() {
 		return ++privateVar;
 	}
-*/
+
 
 /* Share variables between multiple UI scripts by adding them to your scope object. For example: 
 	x_g_nci_cicd_dev_o.sharedVar = 0; 
