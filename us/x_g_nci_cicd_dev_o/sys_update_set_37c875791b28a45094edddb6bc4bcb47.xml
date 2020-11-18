@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-11-18 19:09:31">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<application_name>CICD_Dev_Ops</application_name>
+<application_scope>x_g_nci_cicd_dev_o</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>CICD_Dev_Ops - 1.0.10</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="CICD_Dev_Ops - 1.0.10">ead87db91b28a45094edddb6bc4bcb58</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>37c875791b28a45094edddb6bc4bcb47</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-11-18 19:09:31</sys_created_on>
+<sys_id>ead87db91b28a45094edddb6bc4bcb58</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-11-18 19:09:31</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<application_name>CICD_Dev_Ops</application_name>
+<application_scope>x_g_nci_cicd_dev_o</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>CICD_Dev_Ops - 1.0.8</name>
+<origin_sys_id/>
+<parent display_value="CICD_Dev_Ops - 1.0.10">ead87db91b28a45094edddb6bc4bcb58</parent>
+<release_date/>
+<remote_base_update_set display_value="CICD_Dev_Ops - 1.0.10">ead87db91b28a45094edddb6bc4bcb58</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>f9c7fd391b28a45094edddb6bc4bcb3c</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-11-18 19:09:31</sys_created_on>
+<sys_id>26d87db91b28a45094edddb6bc4bcb5a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-11-18 19:09:31</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<application_name>CICD_Dev_Ops</application_name>
+<application_scope>x_g_nci_cicd_dev_o</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>CICD_Dev_Ops - 1.0.9</name>
+<origin_sys_id/>
+<parent display_value="CICD_Dev_Ops - 1.0.10">ead87db91b28a45094edddb6bc4bcb58</parent>
+<release_date/>
+<remote_base_update_set display_value="CICD_Dev_Ops - 1.0.10">ead87db91b28a45094edddb6bc4bcb58</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>805871791b28a45094edddb6bc4bcb94</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-11-18 19:09:31</sys_created_on>
+<sys_id>e6d87db91b28a45094edddb6bc4bcb59</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-11-18 19:09:31</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<application_name>CICD_Dev_Ops</application_name>
+<application_scope>x_g_nci_cicd_dev_o</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>CICD_Dev_Ops - 1.0.10</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="CICD_Dev_Ops - 1.0.10">ead87db91b28a45094edddb6bc4bcb58</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>37c875791b28a45094edddb6bc4bcb47</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-11-18 19:09:31</sys_created_on>
+<sys_id>ead87db91b28a45094edddb6bc4bcb58</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-11-18 19:09:31</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_script_619ab0ae1bbb181094edddb6bc4bcbf0</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_script"&gt;&lt;sys_ui_script action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;description/&gt;&lt;global&gt;false&lt;/global&gt;&lt;name&gt;x_g_nci_cicd_dev_o.UI_SCRIPT_TEST&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var x_g_nci_cicd_dev_o = x_g_nci_cicd_dev_o || {};
+
+x_g_nci_cicd_dev_o.UI_SCRIPT_TEST = (function() {
+	"use strict";
+
+ //set your private variables and functions here. For example: 
+	var privateVar = 0; 
+	function private_function() {
+		return ++privateVar;
+	}
+
+
+/* Share variables between multiple UI scripts by adding them to your scope object. For example: 
+	x_g_nci_cicd_dev_o.sharedVar = 0; 
+
+ Then access them in your scripts the same way. For example: 
+	function get_shared() {
+		return x_g_nci_cicd_dev_o.sharedVar;
+	}
+*/
+
+	return {
+
+/* set your public API here. For example:
+		incrementAndReturnPrivateVar: function() {
+			return private_function();
+		},
+*/
+		type:  "UI_SCRIPT_TEST"
+	};
+})();
+
+/**
+ * Description
+ * 
+ * @param {any} control
+ * @param {any} oldValue
+ * @param {any} newValue
+ * @param {any} isLoading
+ * @author Nadim Rizk [rizknt@nih.gov]
+ * @memberof x_g_nci_cicd_dev_o.module:sys_ui_script
+ * @returns {undefined}
+ */
+function onChange(control, oldValue, newValue, isLoading)  {
+   
+    // This is important to prevent loop-like behavior
+    if (isLoading || newValue == '') {
+        return;
+    }
+   
+    var ga = new GlideAjax('QuickDateCheck');    
+    ga.addParam('sysparm_name','isPastDateTime');    
+    ga.addParam('sysparm_test_date', newValue);    
+    ga.getXMLAnswer(checkAllowed);
+   
+    // Based on our script include, inform the user
+    /**
+     * Description
+     * 
+     * @param {any} answer
+     * @returns {undefined}
+     */
+    function checkAllowed(answer){        
+        if (answer !== 'true') {            
+            g_form.addErrorMessage('Discovery date can\'t be in the future');
+            g_form.clearValue('last_discovered');            
+        }    
+    }    
+
+}
+]]&gt;&lt;/script&gt;&lt;script_name&gt;UI_SCRIPT_TEST&lt;/script_name&gt;&lt;sys_class_name&gt;sys_ui_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rizknt@nih.gov&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-10-14 15:52:30&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;619ab0ae1bbb181094edddb6bc4bcbf0&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_g_nci_cicd_dev_o.UI_SCRIPT_TEST&lt;/sys_name&gt;&lt;sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o"&gt;60c2a2971b4cd010fe45ed39bc4bcb2a&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CICD_Dev_Ops"&gt;60c2a2971b4cd010fe45ed39bc4bcb2a&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_script_619ab0ae1bbb181094edddb6bc4bcbf0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rizknt@nih.gov&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-11-18 19:05:59&lt;/sys_updated_on&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;use_scoped_format&gt;false&lt;/use_scoped_format&gt;&lt;/sys_ui_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-950003879</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.8">26d87db91b28a45094edddb6bc4bcb5a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-11-18 19:09:31</sys_created_on>
+<sys_id>2ad87db91b28a45094edddb6bc4bcb5a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>175dcbfcf8e0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-11-18 19:09:31</sys_updated_on>
+<table/>
+<target_name>x_g_nci_cicd_dev_o.UI_SCRIPT_TEST</target_name>
+<type>UI Script</type>
+<update_domain>global</update_domain>
+<update_guid>2608b1792a28a45025cdc41e75cb09bd</update_guid>
+<update_guid_history>2608b1792a28a45025cdc41e75cb09bd:-950003879,99b4deed95546c10dab9342236963017:821830575,9fd49159925ce810e4351d9edbea124c:1304772665,a62c74ea8abb18109bf5dc7e8a014fb1:821830575,cb1c30ae1ebb181057f08883709beec4:-689216579</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD_Dev_Ops">60c2a2971b4cd010fe45ed39bc4bcb2a</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_d7b67ce61bbb181094edddb6bc4bcbac</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_g_nci_cicd_dev_o.Test_Script_Include_Demo&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;Test_Script_Include_Demo&lt;/name&gt;&lt;script&gt;&lt;![CDATA[/**
+ * Class Description
+ * 
+ * @class 
+ * @author Nadim Rizk [rizknt@nih.gov]
+ * @memberof x_g_nci_cicd_dev_o.module:sys_script_include
+ */
+var testvar;
+var Test_Script_Include_Demo = Class.create();
+Test_Script_Include_Demo.prototype = /** @lends x_g_nci_cicd_dev_o.module:sys_script_include.Test_Script_Include_Demo.prototype */ {
+    /**
+     * Description
+     * 
+     * @returns {undefined}
+     */
+    initialize: function() {
+    },
+
+    type: 'Test_Script_Include_Demo'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rizknt@nih.gov&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-10-14 15:30:18&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;d7b67ce61bbb181094edddb6bc4bcbac&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;Test_Script_Include_Demo&lt;/sys_name&gt;&lt;sys_package display_value="CICD_Dev_Ops" source="x_g_nci_cicd_dev_o"&gt;60c2a2971b4cd010fe45ed39bc4bcb2a&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CICD_Dev_Ops"&gt;60c2a2971b4cd010fe45ed39bc4bcb2a&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_d7b67ce61bbb181094edddb6bc4bcbac&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rizknt@nih.gov&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-11-18 19:07:47&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1107800986</payload_hash>
+<remote_update_set display_value="CICD_Dev_Ops - 1.0.9">e6d87db91b28a45094edddb6bc4bcb59</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-11-18 19:09:31</sys_created_on>
+<sys_id>ead87db91b28a45094edddb6bc4bcb59</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>175dcc1774c0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-11-18 19:09:31</sys_updated_on>
+<table/>
+<target_name>Test_Script_Include_Demo</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>85787d79ae28a450ca8c43856d66750b</update_guid>
+<update_guid_history>85787d79ae28a450ca8c43856d66750b:-1107800986,044452ed7c546c102b722787c27ae5ec:-1317203449,08a459194c5ce8103a97c5e3c5a3b1db:-137201076,ca2419d5a35ce8107e61f75e5bb42a1c:-100606484,f707f02a56bb18100ee898bb92c3e5e9:1475319265,b9073ce6e9bb1810fb0a3f9e27bb5928:667248011</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
