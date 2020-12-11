@@ -3,7 +3,7 @@
  * ClassName   : sys_ui_script
  * Created On  : 2020-10-14 15:52:30
  * Created By  : rizknt@nih.gov
- * Updated On  : 2020-11-18 19:05:59
+ * Updated On  : 2020-12-11 18:48:23
  * Updated By  : rizknt@nih.gov
  * URL         : /sys_ui_script.do?sys_id=619ab0ae1bbb181094edddb6bc4bcbf0
  */
@@ -19,14 +19,14 @@ x_g_nci_cicd_dev_o.UI_SCRIPT_TEST = (function() {
 	}
 
 
-/* Share variables between multiple UI scripts by adding them to your scope object. For example: 
+// Share variables between multiple UI scripts by adding them to your scope object. For example: 
 	x_g_nci_cicd_dev_o.sharedVar = 0; 
 
- Then access them in your scripts the same way. For example: 
+ //Then access them in your scripts the same way. For example: 
 	function get_shared() {
 		return x_g_nci_cicd_dev_o.sharedVar;
 	}
-*/
+
 
 	return {
 
