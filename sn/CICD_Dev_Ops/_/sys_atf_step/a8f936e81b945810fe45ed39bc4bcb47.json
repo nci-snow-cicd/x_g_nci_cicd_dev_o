@@ -1,7 +1,7 @@
 {
   "active": true,
   "copied_from": null,
-  "description": "Impersonate the user:  devops with user Id: devops",
+  "description": "Impersonate the user:  devops with user Id: devops\n\nWarning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead\r\nSee the documentation for Test Design Considerations",
   "display_name": "Impersonate",
   "inputs": null,
   "mugshots_cache_json": null,
@@ -13,16 +13,16 @@
   "sys_created_by": "rizknt@nih.gov",
   "sys_created_on": "2020-04-17 20:15:12",
   "sys_id": "a8f936e81b945810fe45ed39bc4bcb47",
-  "sys_mod_count": 3,
+  "sys_mod_count": 4,
   "sys_name": "Impersonate",
   "sys_package": "60c2a2971b4cd010fe45ed39bc4bcb2a",
   "sys_policy": null,
   "sys_scope": "60c2a2971b4cd010fe45ed39bc4bcb2a",
   "sys_update_name": "sys_atf_step_a8f936e81b945810fe45ed39bc4bcb47",
   "sys_updated_by": "rizknt@nih.gov",
-  "sys_updated_on": "2020-04-17 20:41:00",
+  "sys_updated_on": "2021-03-30 15:47:45",
   "table": null,
   "test": "0d697aa81b945810fe45ed39bc4bcb34",
   "timeout": null,
-  "warning_message": null
+  "warning_message": "Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead\r\nSee the documentation for Test Design Considerations"
 }
